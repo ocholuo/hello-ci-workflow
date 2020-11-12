@@ -1,4 +1,3 @@
-# circle.yml
 machine:
   node:
     version: 0.10
